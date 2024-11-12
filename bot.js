@@ -1,5 +1,4 @@
 const { Telegraf } = require("telegraf");
-
 const bot = new Telegraf("7755955456:AAFI_f4bxjZcBUnTQYwfLWpgtbbypANrb6A");
 
 const adminChatId = "710244620";
